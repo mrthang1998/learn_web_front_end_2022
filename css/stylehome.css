@@ -1,0 +1,56 @@
+/* body {
+    background-color: rgb(52, 195, 243);
+  } */
+/* tôi viết thẻ p1 có màu đỏ và chữ 20 */
+.p1 {
+  font-weight: bold;
+  color: red;
+  font-size: 20px;
+}
+.p2 {
+  color: aquamarine;
+}
+#block {
+  background-color: chocolate;
+  float: left;
+  width: 30%;
+  height: 200px;
+}
+#block .p3 {
+  margin: 0px;
+}
+#block-table {
+  background-color: yellow;
+  float: left;
+  width: 30%;
+  height: 200px;
+}
+#block-menu {
+  color: black;
+  float: left;
+  width: 40%;
+  height: 200px;
+}
+.menu {
+  background-color: #282a35;
+  /* height: 40px; */
+}
+#block-menu ul {
+  height: 60px;
+  padding: 0px;
+}
+#block-menu ul li {
+  float: left;
+  padding: 20px;
+  list-style: none;
+  border-right: white 1px solid;
+}
+#block-menu ul li a {
+  color: white;
+  text-decoration: none;
+}
+table,
+tr,
+td {
+  border: 1px red solid;
+}

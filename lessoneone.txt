@@ -1,0 +1,14 @@
+-Buổi 1:
+1. Biết được cấu trúc html
+2. Biết được cách css: 
+    + Inline Styles: nhúng trực tiếp vào file html thông qua cặp thẻ <style> </style>
+    + External Styles: Tạo một tập tin .css riêng và nhúng vào tài liệu HTML thông qua cặp thẻ <link>.
+3. Biết đặt tên id và class cho các khối (block) và thẻ (tag):
+    + #tenID
+    + .tenClass
+4. Biết được margin và padding
+Buổi 2: 
+1. Biết float
+2. Biết thẻ ul li
+3. Biết kết hợp ul li và float để làm menu
+
